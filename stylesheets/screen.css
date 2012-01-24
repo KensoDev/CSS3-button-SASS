@@ -23,12 +23,12 @@ a.whiteish {
   -webkit-box-shadow: inset 0px 0px 1px #bbbbbb;
   -o-box-shadow: inset 0px 0px 1px #bbbbbb;
   box-shadow: inset 0px 0px 1px #bbbbbb;
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #eeeeee), color-stop(100%, #fefefe));
-  background-image: -webkit-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
-  background-image: -moz-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
-  background-image: -o-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
-  background-image: -ms-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
-  background-image: linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #eeeeee), color-stop(100%, #fefefe));
+  background-image: -webkit-linear-gradient(90%, #eeeeee 0%, #fefefe 100%);
+  background-image: -moz-linear-gradient(90%, #eeeeee 0%, #fefefe 100%);
+  background-image: -o-linear-gradient(90%, #eeeeee 0%, #fefefe 100%);
+  background-image: -ms-linear-gradient(90%, #eeeeee 0%, #fefefe 100%);
+  background-image: linear-gradient(90%, #eeeeee 0%, #fefefe 100%);
   text-shadow: rgba(254, 254, 254, 0.5) 0px 1px 0px;
 }
 /* line 5, ../sass/_css3button.scss */
@@ -42,21 +42,21 @@ a.whiteish:active {
 }
 /* line 23, ../sass/screen.scss */
 a.whiteish:hover {
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #f6f6f6), color-stop(100%, #fefefe));
-  background-image: -webkit-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
-  background-image: -moz-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
-  background-image: -o-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
-  background-image: -ms-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
-  background-image: linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #f6f6f6), color-stop(100%, #fefefe));
+  background-image: -webkit-linear-gradient(90%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -moz-linear-gradient(90%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -o-linear-gradient(90%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -ms-linear-gradient(90%, #f6f6f6 0%, #fefefe 100%);
+  background-image: linear-gradient(90%, #f6f6f6 0%, #fefefe 100%);
 }
 /* line 26, ../sass/screen.scss */
 a.whiteish:active {
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #fefefe), color-stop(100%, #f6f6f6));
-  background-image: -webkit-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
-  background-image: -moz-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
-  background-image: -o-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
-  background-image: -ms-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
-  background-image: linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #fefefe), color-stop(100%, #f6f6f6));
+  background-image: -webkit-linear-gradient(90%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -moz-linear-gradient(90%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -o-linear-gradient(90%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -ms-linear-gradient(90%, #fefefe 0%, #f6f6f6 100%);
+  background-image: linear-gradient(90%, #fefefe 0%, #f6f6f6 100%);
 }
 
 /* line 30, ../sass/screen.scss */
@@ -68,12 +68,12 @@ a.other_style {
   -webkit-box-shadow: inset 0px 0px 1px #b3b3b3;
   -o-box-shadow: inset 0px 0px 1px #b3b3b3;
   box-shadow: inset 0px 0px 1px #b3b3b3;
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #cfcfcf), color-stop(100%, #e9e9e9));
-  background-image: -webkit-linear-gradient(45%, #cfcfcf 0%, #e9e9e9 100%);
-  background-image: -moz-linear-gradient(45%, #cfcfcf 0%, #e9e9e9 100%);
-  background-image: -o-linear-gradient(45%, #cfcfcf 0%, #e9e9e9 100%);
-  background-image: -ms-linear-gradient(45%, #cfcfcf 0%, #e9e9e9 100%);
-  background-image: linear-gradient(45%, #cfcfcf 0%, #e9e9e9 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #cfcfcf), color-stop(100%, #e9e9e9));
+  background-image: -webkit-linear-gradient(90%, #cfcfcf 0%, #e9e9e9 100%);
+  background-image: -moz-linear-gradient(90%, #cfcfcf 0%, #e9e9e9 100%);
+  background-image: -o-linear-gradient(90%, #cfcfcf 0%, #e9e9e9 100%);
+  background-image: -ms-linear-gradient(90%, #cfcfcf 0%, #e9e9e9 100%);
+  background-image: linear-gradient(90%, #cfcfcf 0%, #e9e9e9 100%);
   text-shadow: rgba(254, 254, 254, 0.5) 0px 1px 0px;
 }
 /* line 5, ../sass/_css3button.scss */
@@ -87,19 +87,19 @@ a.other_style:active {
 }
 /* line 35, ../sass/screen.scss */
 a.other_style:hover {
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #dbdbdb), color-stop(100%, #f3f3f3));
-  background-image: -webkit-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
-  background-image: -moz-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
-  background-image: -o-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
-  background-image: -ms-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
-  background-image: linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #dbdbdb), color-stop(100%, #f3f3f3));
+  background-image: -webkit-linear-gradient(90%, #dbdbdb 0%, #f3f3f3 100%);
+  background-image: -moz-linear-gradient(90%, #dbdbdb 0%, #f3f3f3 100%);
+  background-image: -o-linear-gradient(90%, #dbdbdb 0%, #f3f3f3 100%);
+  background-image: -ms-linear-gradient(90%, #dbdbdb 0%, #f3f3f3 100%);
+  background-image: linear-gradient(90%, #dbdbdb 0%, #f3f3f3 100%);
 }
 /* line 38, ../sass/screen.scss */
 a.other_style:active {
-  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #e3e3e3), color-stop(100%, #b6b6b6));
-  background-image: -webkit-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
-  background-image: -moz-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
-  background-image: -o-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
-  background-image: -ms-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
-  background-image: linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
+  background-image: -webkit-gradient(linear, 90%, 10%, color-stop(0%, #e3e3e3), color-stop(100%, #b6b6b6));
+  background-image: -webkit-linear-gradient(90%, #e3e3e3 0%, #b6b6b6 100%);
+  background-image: -moz-linear-gradient(90%, #e3e3e3 0%, #b6b6b6 100%);
+  background-image: -o-linear-gradient(90%, #e3e3e3 0%, #b6b6b6 100%);
+  background-image: -ms-linear-gradient(90%, #e3e3e3 0%, #b6b6b6 100%);
+  background-image: linear-gradient(90%, #e3e3e3 0%, #b6b6b6 100%);
 }
