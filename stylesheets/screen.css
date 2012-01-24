@@ -15,7 +15,7 @@ a.button {
 }
 
 /* line 18, ../sass/screen.scss */
-.whiteish {
+a.whiteish {
   background-color: #f3f3f3;
   border: 1px solid #acacac;
   color: #2b2c2b;
@@ -32,16 +32,16 @@ a.button {
   text-shadow: rgba(254, 254, 254, 0.5) 0px 1px 0px;
 }
 /* line 5, ../sass/_css3button.scss */
-.whiteish:hover {
+a.whiteish:hover {
   background-color: white;
 }
 /* line 8, ../sass/_css3button.scss */
-.whiteish:active {
+a.whiteish:active {
   background-color: #f9f9f9;
   text-shadow: none;
 }
 /* line 23, ../sass/screen.scss */
-.whiteish:hover {
+a.whiteish:hover {
   background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #f6f6f6), color-stop(100%, #fefefe));
   background-image: -webkit-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
   background-image: -moz-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
@@ -50,7 +50,7 @@ a.button {
   background-image: linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
 }
 /* line 26, ../sass/screen.scss */
-.whiteish:active {
+a.whiteish:active {
   background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #fefefe), color-stop(100%, #f6f6f6));
   background-image: -webkit-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
   background-image: -moz-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
@@ -60,7 +60,7 @@ a.button {
 }
 
 /* line 30, ../sass/screen.scss */
-.something {
+a.other_style {
   background-color: #d2d2d2;
   border: 1px solid #8e8e8e;
   color: #545554;
@@ -77,16 +77,16 @@ a.button {
   text-shadow: rgba(254, 254, 254, 0.5) 0px 1px 0px;
 }
 /* line 5, ../sass/_css3button.scss */
-.something:hover {
+a.other_style:hover {
   background-color: #dfdfdf;
 }
 /* line 8, ../sass/_css3button.scss */
-.something:active {
+a.other_style:active {
   background-color: #a3a3a3;
   text-shadow: none;
 }
 /* line 35, ../sass/screen.scss */
-.something:hover {
+a.other_style:hover {
   background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #dbdbdb), color-stop(100%, #f3f3f3));
   background-image: -webkit-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
   background-image: -moz-linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
@@ -95,7 +95,7 @@ a.button {
   background-image: linear-gradient(45%, #dbdbdb 0%, #f3f3f3 100%);
 }
 /* line 38, ../sass/screen.scss */
-.something:active {
+a.other_style:active {
   background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #e3e3e3), color-stop(100%, #b6b6b6));
   background-image: -webkit-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
   background-image: -moz-linear-gradient(45%, #e3e3e3 0%, #b6b6b6 100%);
