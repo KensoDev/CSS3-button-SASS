@@ -1,9 +1,3 @@
-@mixin rounded($side, $radius: 10px) {
-  border-#{$side}-radius: $radius;
-  -moz-border-radius-#{$side}: $radius;
-  -webkit-border-#{$side}-radius: $radius;
-}
-
 @mixin css3button($bgcolor, $border-color, $text-color, $hover-bg-color, $active-bg-color) {
 	background-color: $bgcolor;
 	border: 1px solid $border-color;
