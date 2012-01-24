@@ -1,4 +1,5 @@
 @import "compass";
+@import "css3button";
 
 a.button {
 	display: block;
@@ -14,20 +15,9 @@ a.button {
 	float: left;
 	margin: 10px 20px;
 }
-.button.whiteish {
-	background-color: #F3F3F3;
-	border: 1px solid #ACACAC;
-	@include box-shadow(inset 0px 0px 1px rgba(187,187,187,1));
-	@include background-image(linear-gradient(45%, rgb(238,238,238) 0%, rgb(254,254,254) 100%));
-	color: #2B2C2B;
-	@include text-shadow(rgba(254,254,254,0.5) 0px 1px 0px);
-	&:hover {
-		@include background-image(linear-gradient(45%, rgb(246,246,246) 0%, rgb(254,254,254) 100%));
-		background-color: #FFFFFF;
-	}
-	&:active {
-		background-color: #F9F9F9;
-		@include background-image(linear-gradient(45%, rgb(254,254,254) 0%, rgb(246,246,246) 100%));	
-		@include text-shadow(none);
-	}
+.whiteish {
+	@include css3button(#F3F3F3, #ACACAC, #2B2C2B, #FFFFFF, #F9F9F9);
+}
+.something {
+	@include css3button(#D2D2D2, #8e8e8e, #545554, #DFDFDF, #A3A3A3);	
 }
