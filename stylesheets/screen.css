@@ -1,0 +1,54 @@
+/* line 3, ../sass/screen.scss */
+a.button {
+  display: block;
+  width: 120px;
+  height: 35px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 35px;
+  text-decoration: none;
+  font-family: 'Helvetica';
+  font-weight: bold;
+  font-size: 10pt;
+  float: left;
+  margin: 10px 20px;
+}
+
+/* line 17, ../sass/screen.scss */
+.button.whiteish {
+  background-color: #F3F3F3;
+  border: 1px solid #ACACAC;
+  -moz-box-shadow: inset 0px 0px 1px #bbbbbb;
+  -webkit-box-shadow: inset 0px 0px 1px #bbbbbb;
+  -o-box-shadow: inset 0px 0px 1px #bbbbbb;
+  box-shadow: inset 0px 0px 1px #bbbbbb;
+  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #eeeeee), color-stop(100%, #fefefe));
+  background-image: -webkit-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  background-image: -moz-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  background-image: -o-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  background-image: -ms-linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  background-image: linear-gradient(45%, #eeeeee 0%, #fefefe 100%);
+  color: #2B2C2B;
+  text-shadow: rgba(254, 254, 254, 0.5) 0px 1px 0px;
+}
+/* line 24, ../sass/screen.scss */
+.button.whiteish:hover {
+  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #f6f6f6), color-stop(100%, #fefefe));
+  background-image: -webkit-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -moz-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -o-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-image: -ms-linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-image: linear-gradient(45%, #f6f6f6 0%, #fefefe 100%);
+  background-color: #FFFFFF;
+}
+/* line 28, ../sass/screen.scss */
+.button.whiteish:active {
+  background-color: #F9F9F9;
+  background-image: -webkit-gradient(linear, 45%, 55%, color-stop(0%, #fefefe), color-stop(100%, #f6f6f6));
+  background-image: -webkit-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -moz-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -o-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  background-image: -ms-linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  background-image: linear-gradient(45%, #fefefe 0%, #f6f6f6 100%);
+  text-shadow: none;
+}
