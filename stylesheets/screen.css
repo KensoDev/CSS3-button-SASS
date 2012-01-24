@@ -61,9 +61,9 @@ a.button {
 
 /* line 30, ../sass/screen.scss */
 .something {
-  background-color: #848484;
-  border: 1px solid #515151;
-  color: white;
+  background-color: #d2d2d2;
+  border: 1px solid #8e8e8e;
+  color: #545554;
   -moz-box-shadow: inset 0px 0px 1px #b3b3b3;
   -webkit-box-shadow: inset 0px 0px 1px #b3b3b3;
   -o-box-shadow: inset 0px 0px 1px #b3b3b3;
@@ -78,11 +78,11 @@ a.button {
 }
 /* line 5, ../sass/_css3button.scss */
 .something:hover {
-  background-color: #8e8e8e;
+  background-color: #dfdfdf;
 }
 /* line 8, ../sass/_css3button.scss */
 .something:active {
-  background-color: #6d6d6d;
+  background-color: #a3a3a3;
   text-shadow: none;
 }
 /* line 35, ../sass/screen.scss */
